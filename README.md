@@ -43,3 +43,6 @@ streamlit run app.py
 ## Author
 
 Krishna
+## 🌐 Live Demo
+
+https://customer-churn-predictor-gpad93somksytrqfmssvam.streamlit.app
